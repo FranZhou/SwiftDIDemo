@@ -1,0 +1,33 @@
+PODS:
+  - DIContainer (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PropertyDI (0.1.0):
+    - DIContainer
+
+DEPENDENCIES:
+  - DIContainer (from `../../DIContainer`)
+  - FBSnapshotTestCase (~> 2.1.4)
+  - PropertyDI (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DIContainer:
+    :path: "../../DIContainer"
+  PropertyDI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DIContainer: f2b4389f856a88a59d67dfc80058c5cad93eb48f
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PropertyDI: dae536c9c8f26a44d4ce1d0f35d081531c9b91bb
+
+PODFILE CHECKSUM: c1f27a0daf22db0c4b2f4315dd5aeb2ab1a699b3
+
+COCOAPODS: 1.11.2

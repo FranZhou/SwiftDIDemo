@@ -1,0 +1,6 @@
+framework module InjectionDemo {
+  umbrella header "InjectionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

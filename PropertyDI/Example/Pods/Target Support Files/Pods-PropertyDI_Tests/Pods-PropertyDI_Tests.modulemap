@@ -1,0 +1,6 @@
+framework module Pods_PropertyDI_Tests {
+  umbrella header "Pods-PropertyDI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

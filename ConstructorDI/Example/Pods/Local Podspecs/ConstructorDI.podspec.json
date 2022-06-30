@@ -1,0 +1,27 @@
+{
+  "name": "ConstructorDI",
+  "version": "0.1.0",
+  "summary": "A short description of ConstructorDI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FranZhou/ConstructorDI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FranZhou": "fan.zhou@rea-group.com"
+  },
+  "source": {
+    "git": "https://github.com/FranZhou/ConstructorDI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ConstructorDI/Classes/**/*",
+  "dependencies": {
+    "DIContainer": [
+
+    ]
+  }
+}

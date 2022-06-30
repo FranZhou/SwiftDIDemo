@@ -1,0 +1,6 @@
+framework module Pods_MethodDI_Example {
+  umbrella header "Pods-MethodDI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

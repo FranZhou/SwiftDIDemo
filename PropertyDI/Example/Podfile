@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PropertyDI_Example' do
+  pod 'PropertyDI', :path => '../'
+  pod 'DIContainer', :path => '../../DIContainer'
+
+  target 'PropertyDI_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

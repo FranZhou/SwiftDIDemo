@@ -1,0 +1,6 @@
+framework module MethodDI {
+  umbrella header "MethodDI-umbrella.h"
+
+  export *
+  module * { export * }
+}

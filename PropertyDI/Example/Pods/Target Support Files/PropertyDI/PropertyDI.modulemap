@@ -1,0 +1,6 @@
+framework module PropertyDI {
+  umbrella header "PropertyDI-umbrella.h"
+
+  export *
+  module * { export * }
+}

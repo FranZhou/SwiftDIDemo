@@ -1,0 +1,22 @@
+{
+  "name": "DIContainer",
+  "version": "0.1.0",
+  "summary": "A short description of DIContainer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FranZhou/DIContainer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FranZhou": "fan.zhou@rea-group.com"
+  },
+  "source": {
+    "git": "https://github.com/FranZhou/DIContainer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DIContainer/Classes/**/*"
+}

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A836CD15-6420-42F9-9C50-2D12634B9186"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "demoB"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - b02d6b2eeab6238d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "5B75F92C-A114-4D3E-A3BB-8D6B912DC1D8 - 7bc0325f220fbeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE9FC6A7-F70F-4A49-86AB-5EC7D777F7F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "demoB"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EE9FC6A7-F70F-4A49-86AB-5EC7D777F7F0 - b02d6b2eeab62312"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "EE9FC6A7-F70F-4A49-86AB-5EC7D777F7F0 - b02d6b2eeab62312"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoB.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolB&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoB.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "demoA"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - a1d1d7b3a0d919cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "1A35E0BC-16C6-4A09-A4A5-891E66FC5214 - 5d4f20a3e81192f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.getter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F8D880-7F44-469E-A3FD-5F0A8D0B3942"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "demoA"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C6F8D880-7F44-469E-A3FD-5F0A8D0B3942 - a1d1d7b3a0d91651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C6F8D880-7F44-469E-A3FD-5F0A8D0B3942 - a1d1d7b3a0d91651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyDI.InjectionPropertyContainer.demoA.setter : Swift.Optional&lt;PropertyDI.InjectionDemoProtocolA&gt;"
+                  moduleName = "InjectionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fan.zhou/Desktop/Workspace/FranZhou/DI/InjectionDemo/InjectionDemo/Classes/InjectionDemoA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

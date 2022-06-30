@@ -1,0 +1,16 @@
+PODS:
+  - InjectionDemo (0.1.0)
+
+DEPENDENCIES:
+  - InjectionDemo (from `../`)
+
+EXTERNAL SOURCES:
+  InjectionDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InjectionDemo: a12d61689435cdf9f46de9ad0fdd82dea215a75c
+
+PODFILE CHECKSUM: 9ba59ec19a4a732432548b70782d9449d19d704c
+
+COCOAPODS: 1.11.2
